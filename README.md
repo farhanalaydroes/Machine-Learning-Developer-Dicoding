@@ -33,7 +33,7 @@
 
 <details><summary>Table of Contains</summary>
  
-  <a>[ Dicoding Machine Learning ]([https://github.com/farhanalaydroes/Machine-Learning-Developer-Dicoding/blob/main/Readme2/Dicoding_Machine_Learning_Developer.ipynb) </a> 
+  <a>[ Dicoding Machine Learning ](https://github.com/farhanalaydroes/Machine-Learning-Developer-Dicoding/blob/main/Readme2/Dicoding_Machine_Learning_Developer.ipynb) </a> 
 
  </details>
 
