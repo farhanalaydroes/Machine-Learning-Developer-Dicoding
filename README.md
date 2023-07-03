@@ -29,11 +29,11 @@
  <p align="justify">
   Library :
 </p>
-  <a href="https://www.tensorflow.org" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a> <a href="https://www.tensorflow.org" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a> <a href="https://www.tensorflow.org" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 
 <details><summary>Table of Contains</summary>
  
-  <a>[ Dicoding Machine Learning ](https://github.com/farhanalaydroes/Machine-Learning-Developer-Dicoding/blob/main/Readme2/Dicoding_Machine_Learning_Developer.ipynb) </a> 
+  <a>[ Dicoding Machine Learning Developer ](https://github.com/farhanalaydroes/Machine-Learning-Developer-Dicoding/blob/main/Readme2/Dicoding_Machine_Learning_Developer.ipynb) </a> 
 
  </details>
 
